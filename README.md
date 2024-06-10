@@ -5,43 +5,62 @@
 Cada ejercicio se encuentra en un archivo separado. A continuación se detalla la ubicación de cada uno de los ejercicios:
 
 1. **Suma de los dígitos de un número**
-[  [ - `ejercicios/suma_digitos.c`](https://github.com/eduardocaizaluisa/Taller-Funciones-y-procedimientos/blob/main/funciones/contar_primos.c)
+[ - `ejercicios/suma_digitos.c`
 ](https://github.com/eduardocaizaluisa/Taller-Funciones-y-procedimientos/blob/main/funciones/suma_digitos.c)
 2. **Inverso de un número**
-   - `ejercicios/inverso_numero.c`
+[   - `ejercicios/inverso_numero.c`
+](https://github.com/eduardocaizaluisa/Taller-Funciones-y-procedimientos/blob/main/funciones/inverso_numero.c)
 3. **Potencia mediante sumas sucesivas**
-   - `ejercicios/potencia_sumas.c`
+[   - `ejercicios/potencia_sumas.c`
+](https://github.com/eduardocaizaluisa/Taller-Funciones-y-procedimientos/blob/main/funciones/potencia_sumas.c)
 4. **Radicación mediante restas sucesivas**
-   - `ejercicios/radicacion_restas.c`
+[   - `ejercicios/radicacion_restas.c`
+](https://github.com/eduardocaizaluisa/Taller-Funciones-y-procedimientos/blob/main/funciones/radicacion_restas.c)
 5. **Serie de Fibonacci**
-   - `ejercicios/serie_fibonacci.c`
+[   - `ejercicios/serie_fibonacci.c`
+](https://github.com/eduardocaizaluisa/Taller-Funciones-y-procedimientos/blob/main/funciones/serie_fibonacci.c)
 6. **Factorial de un número**
-   - `ejercicios/factorial.c`
+[   - `ejercicios/factorial.c`
+](https://github.com/eduardocaizaluisa/Taller-Funciones-y-procedimientos/blob/main/funciones/factorial.c)
 7. **Suma de una serie aritmética**
-   - `ejercicios/suma_aritmetica.c`
+[   - `ejercicios/suma_aritmetica.c`
+](https://github.com/eduardocaizaluisa/Taller-Funciones-y-procedimientos/blob/main/funciones/suma_aritmetica.c)
 8. **Producto de una serie geométrica**
-   - `ejercicios/producto_geometrica.c`
+[   - `ejercicios/producto_geometrica.c`
+](https://github.com/eduardocaizaluisa/Taller-Funciones-y-procedimientos/blob/main/funciones/producto_geometrica.c)
 9. **Número de dígitos de un número**
-   - `ejercicios/numero_digitos.c`
+[   - `ejercicios/numero_digitos.c`
+](https://github.com/eduardocaizaluisa/Taller-Funciones-y-procedimientos/blob/main/funciones/numero_digitos.c)
 10. **Verificar si un número es primo**
-    - `ejercicios/verificar_primo.c`
+[    - `ejercicios/verificar_primo.c`
+](https://github.com/eduardocaizaluisa/Taller-Funciones-y-procedimientos/blob/main/funciones/verificar_primo.c)
 11. **Encontrar el MCD (Máximo Común Divisor)**
-    - `ejercicios/mcd.c`
+[    - `ejercicios/mcd.c`
+](https://github.com/eduardocaizaluisa/Taller-Funciones-y-procedimientos/blob/main/funciones/mcd.c)
 12. **Sumar los números impares hasta n**
-    - `ejercicios/suma_impares.c`
+[    - `ejercicios/suma_impares.c`
+](https://github.com/eduardocaizaluisa/Taller-Funciones-y-procedimientos/blob/main/funciones/suma_impares.c)
 13. **Sumar los números pares hasta n**
-    - `ejercicios/suma_pares.c`
+[    - `ejercicios/suma_pares.c`
+](https://github.com/eduardocaizaluisa/Taller-Funciones-y-procedimientos/blob/main/funciones/suma_pares.c)
 14. **Suma de los cuadrados de los primeros n números**
-    - `ejercicios/suma_cuadrados.c`
+[    - `ejercicios/suma_cuadrados.c`
+](https://github.com/eduardocaizaluisa/Taller-Funciones-y-procedimientos/blob/main/funciones/suma_cuadrados.c)
 15. **Suma de los cubos de los primeros n números**
-    - `ejercicios/suma_cubos.c`
+[    - `ejercicios/suma_cubos.c`
+](https://github.com/eduardocaizaluisa/Taller-Funciones-y-procedimientos/blob/main/funciones/suma_cubos.c)
 16. **Suma de una serie de números fraccionarios**
-    - `ejercicios/suma_fraccionarios.c`
+[    - `ejercicios/suma_fraccionarios.c`
+](https://github.com/eduardocaizaluisa/Taller-Funciones-y-procedimientos/blob/main/funciones/suma_fraccionarios.c)
 17. **Producto de una serie de números fraccionarios**
-    - `ejercicios/producto_fraccionarios.c`
+[    - `ejercicios/producto_fraccionarios.c`
+](https://github.com/eduardocaizaluisa/Taller-Funciones-y-procedimientos/blob/main/funciones/producto_fraccionarios.c)
 18. **Contar los números primos hasta n**
-    - `ejercicios/contar_primos.c`
+[    - `ejercicios/contar_primos.c`
+](https://github.com/eduardocaizaluisa/Taller-Funciones-y-procedimientos/blob/main/funciones/contar_primos.c)
 19. **Calcular el n-ésimo número triangular**
-    - `ejercicios/numero_triangular.c`
+[    - `ejercicios/numero_triangular.c`
+](https://github.com/eduardocaizaluisa/Taller-Funciones-y-procedimientos/blob/main/funciones/numero_triangular.c)
 20. **Calcular la suma de los factoriales de los primeros n números**
-    - `ejercicios/suma_factoriales.c`
+[    - `ejercicios/suma_factoriales.c`
+](https://github.com/eduardocaizaluisa/Taller-Funciones-y-procedimientos/blob/main/funciones/suma_factoriales.c)
