@@ -5,7 +5,8 @@
 Cada ejercicio se encuentra en un archivo separado. A continuación se detalla la ubicación de cada uno de los ejercicios:
 
 1. **Suma de los dígitos de un número**
-  [ - `ejercicios/suma_digitos.c`](https://github.com/eduardocaizaluisa/Taller-Funciones-y-procedimientos/blob/main/funciones/contar_primos.c)
+[  [ - `ejercicios/suma_digitos.c`](https://github.com/eduardocaizaluisa/Taller-Funciones-y-procedimientos/blob/main/funciones/contar_primos.c)
+](https://github.com/eduardocaizaluisa/Taller-Funciones-y-procedimientos/blob/main/funciones/suma_digitos.c)
 2. **Inverso de un número**
    - `ejercicios/inverso_numero.c`
 3. **Potencia mediante sumas sucesivas**
